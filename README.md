@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunaina-discovery
 - 🌱 I’m currently working on Global Identity 
-- 💞️ I’m looking to collaborate with my team
+-    I’m looking to collaborate with my team
 - 📫 Reach me through my email/teams
 
 <!---
